@@ -1,1 +1,1 @@
-module.exports = {publicPath: "/shayneeliason.github.io/"};
+module.exports = {publicPath: "/"};
